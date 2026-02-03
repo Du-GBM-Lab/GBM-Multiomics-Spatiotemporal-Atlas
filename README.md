@@ -14,3 +14,11 @@ In this study, we integrated single-cell RNA-seq, single-cell ATAC-seq, and Spat
 - **In Silico Perturbation**: Virtual knockout (scTenifoldKnk) predicting the collapse of the mesenchymal network upon PLAUR silencing.
 
 ---
+✉️ Contact
+For questions regarding the analysis or code, please contact:
+Jianyang Du, M.D., Ph.D.
+Email: jianyangdu@126.com
+Department of Neurosurgery, Shandong Provincial Hospital Affiliated to Shandong First Medical University.
+📜 Citation
+If you use the code or data from this study, please cite:
+Zhao, W., Du, J., et al. (2025). Multi-omics Spatiotemporal Atlas Defines Malignant Subtype Architecture and FOSL1-Gated PLAU-PLAUR Axis in Glioblastoma Evolution. [Journal Name].
